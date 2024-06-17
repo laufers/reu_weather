@@ -1,3 +1,5 @@
 Some storms are garden variety. 
 
-SOme storms are severe.
+Some storms are severe.
+
+Some produce tornadoes!
